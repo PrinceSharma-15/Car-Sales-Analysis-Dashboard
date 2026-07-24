@@ -1,4 +1,5 @@
 Car Sales Analysis Dashboard
+
 #Project Overview
  The Car Sales Analysis Dashboard is an interactive Power BI project designed to analyze car sales performance using SQL, Excel, and      
  Power BI. The dashboard provides key business insights through KPIs and visualizations, helping users understand sales trends, fuel type  distribution, and model performance.
@@ -31,7 +32,7 @@ The dataset contains information about:
 - Owner Type
 - Provider
 
-# Key Insights
+# Key Insights: https://github.com/PrinceSharma-15/Car-Sales-Analysis-Dashboard/blob/main/Car%20Sales%20Report.Pbit.png
 - The dataset contains 50,000 car records.
 - Total sales reached 1.30 Million.
 - There are 10 brands and 10 car models.
